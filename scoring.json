@@ -1,0 +1,19 @@
+{"fieldScoring":[
+	["Auto Totes Moved","num",2,""],
+	["Auto Totes Stacked","num",8,""],
+	["Auto Cans","num",3,""],
+	["Auto Mobility","bool",3,""],
+	["Tele Totes Moved","num",3,""],
+	["Tele Totes Pushed Into Scoring","num",4,""],
+	["Tele Totes Stacked","num",5,""],
+	["Tele Cans Scored","num",20,""],
+	["Position",["Landfill fetching","Human player fetching", "One at a time stack","Many at a time stack","Nothing"]],
+	["Other notes","str",0,""]
+],
+"pitScoring":[
+["Drivetrain","str"],
+["Launcher","str"],
+["Intake","str"],
+["Catching","str"],
+["Other Notes","str"]
+]}
